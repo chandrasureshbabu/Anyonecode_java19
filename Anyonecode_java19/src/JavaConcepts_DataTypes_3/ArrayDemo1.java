@@ -1,4 +1,4 @@
-package JavaConcepts_DataTypes;
+package JavaConcepts_DataTypes_3;
 
 public class ArrayDemo1 {
 
