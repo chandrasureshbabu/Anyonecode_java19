@@ -17,7 +17,7 @@ public class CarDemo1 {
 		benz.setModel("Sclass");
 		System.out.println(benz.getModel());
 		
-		benz.setYear(1800);
+		benz.setYear(2020);
 		System.out.println(benz.getYear());
 
 	}
