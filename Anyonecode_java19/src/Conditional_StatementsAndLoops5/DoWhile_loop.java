@@ -11,9 +11,9 @@ public class DoWhile_loop {
 		}
 		
 		do {
-			i++;
-			System.out.println(i);
 			
+			System.out.println(i);// it will do first iteration always before checking while condition 
+			i++;
 		}while(i<10);
 
 	}
