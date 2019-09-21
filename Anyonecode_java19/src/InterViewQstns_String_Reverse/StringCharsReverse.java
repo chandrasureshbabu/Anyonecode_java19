@@ -10,7 +10,7 @@ public class StringCharsReverse {
 		String original =scan.nextLine();
 		
 		
-		if(original.isEmpty()||original==null) {
+		while(original.isEmpty()||original==null) {
 			System.out.println("Please enter what ur thinking");
 			original=scan.nextLine();
 			

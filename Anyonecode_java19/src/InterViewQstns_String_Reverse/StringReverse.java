@@ -22,7 +22,7 @@ public class StringReverse {
 			System.out.println(original);
 		}else {
 			
-			String[] originalarray=original.split("\\s+");
+			String[] originalarray=original.split("\\s+");// splitting String based pm spaces 
 			
 			for(String str:originalarray) {
 				
@@ -31,7 +31,7 @@ public class StringReverse {
 			}
 		}
 			
-			return Reverse;
+			return Reverse.trim();//trim() is predefined string method that trims leading , trailing spaces
 		
 		
 		
