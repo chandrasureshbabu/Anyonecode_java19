@@ -6,7 +6,7 @@ public class StaticExampleClass {
 	private int Noofinstance=0;
 	
 	
-	public StaticExampleClass(String make) { //declaring constructor , we we incrementing instances so we can geto know how many times it gets incremented.
+	public StaticExampleClass(String make) { //declaring constructor , we  incrementing instances so we can geto know how many times it gets incremented.
 		// we make constructor as setter method
 		this.make=make;
 		Noofinstance++;
