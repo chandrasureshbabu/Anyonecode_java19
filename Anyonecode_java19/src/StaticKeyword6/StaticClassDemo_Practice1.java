@@ -17,7 +17,7 @@ public class StaticClassDemo_Practice1 {
 		return this.make;
 	}
 	
-	public static int getInstanceNum() //getter
+	public static  int getInstanceNum() //getter
 	{
 		return InstanceNum;
 	}
